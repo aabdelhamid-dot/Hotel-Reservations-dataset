@@ -3,12 +3,12 @@
 A revenue-management analysis of **36,275 hotel bookings (2017–2018)**, with an interactive
 dashboard of core KPIs and prioritized recommendations to increase revenue.
 
-👉 **[View the live dashboard](https://aabdelhamid-dot.github.io/Hotel-Revenue-Dashboard/)**
+👉 **[View the live dashboard](https://aabdelhamid-dot.github.io/hotel-revenue-dashboard/)**
 *(replace `YOUR-USERNAME` after enabling GitHub Pages)*
 
-> **Disclaimer:** Personal learning project built with a publicly available, anonymized sample
-> dataset (Kaggle's "Hotel Reservations" / INN Hotels). It is not affiliated with, and unrelated
-> to, my employer or any of its data.
+> **Disclaimer:** Personal learning project using a generic, publicly-circulated sample
+> hotel-bookings dataset (synthetic booking IDs, no personal or company data). Not affiliated
+> with or derived from my employer or any of its systems.
 
 ---
 
